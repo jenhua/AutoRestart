@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AutoRst">
+</Property><Property Name="方案檔" Value="C:\Project\Software\AutoRst\AutoRst\AutoRst.sln">
+</Property><Property Name="使用者選項檔" Value="C:\Project\Software\AutoRst\AutoRst\AutoRst.suo">
+</Property><Property Name="Date" Value="2016年4月7日">
+</Property><Property Name="Time" Value="下午 22:30">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AutoRst.sln" Description="檔案已成功備份為 C:\Project\Software\AutoRst\AutoRst\AutoRst.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="AutoRst.suo" Description="檔案已成功備份為 C:\Project\Software\AutoRst\AutoRst\AutoRst.suo.old">
+</Event><Event ErrorLevel="0" Project="AutoRst" Source="AutoRst\AutoRst.vcproj" Description="Converting project file 'C:\Project\Software\AutoRst\AutoRst\AutoRst\AutoRst.vcproj'.">
+</Event><Event ErrorLevel="1" Project="AutoRst" Source="AutoRst\AutoRst.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="1" Project="AutoRst" Source="AutoRst\AutoRst.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="AutoRst" Source="AutoRst\AutoRst.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="AutoRst" Source="AutoRst\AutoRst.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="AutoRst" Source="AutoRst\AutoRst.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="AutoRst" Source="AutoRst\AutoRst.vcproj" Description="Done converting to new project file 'C:\Project\Software\AutoRst\AutoRst\AutoRst\AutoRst.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="AutoRst" Source="AutoRst\AutoRst.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AutoRst.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="AutoRst.sln" Description="Converted">
+</Event></UpgradeLog>
